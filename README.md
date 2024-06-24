@@ -1,4 +1,4 @@
-# Tarea2-IIC2440
+# Tarea2-IIC2440, David Ortega y Bastián Baez
 
 Para el bullet 1, el nombre de la relación entre 2 nodos debe ser TICKET.
 
